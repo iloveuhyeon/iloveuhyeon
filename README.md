@@ -6,6 +6,6 @@
 <a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=FFFFFF"/></a>
 
 <br> **😎 My Social media link** 
-<br>
 <br> 
-<a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
+<a href="https://https://www.instagram.com/i_love_u_hyeon/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
+<a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=Discord id : iloveuhyeon&logoColor=FFFFFF"/></a>

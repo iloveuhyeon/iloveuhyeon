@@ -15,4 +15,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iloveuhyeon&show_icons=true&theme=radical)
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iloveuhyeon&layout=compact)](https://github.com/iloveuhyeon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iloveuhyeon&layout=compact)](https://github.com/iloveuhyeon/github-readme-stats&show_icons=true&theme=radical)

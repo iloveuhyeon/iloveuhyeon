@@ -1,6 +1,7 @@
-# ** Welcome to my page**
+# **Welcome to my page**
 <br> 
 I'm YuHyeon Park
+<br>
 **👀 I’m interested in**
 <br>
 <br>

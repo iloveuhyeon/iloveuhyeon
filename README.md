@@ -2,7 +2,9 @@
 <br> 
 I'm YuHyeon Park
 <br>
+
 **👀 I’m interested in**
+
 <br>
 <br>
 <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-2ECCFA?style=flat-square&logo=Flutter&logoColor=FFFFFF"/></a> 
@@ -18,6 +20,7 @@ I'm YuHyeon Park
 <br>
 <br>
 
+<br> Gsm 7기중에서 유일하게 플러터로 취업하는 개발자가 저의 목표입니다
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iloveuhyeon&layout=compact&theme=dark)](https://github.com/iloveuhyeon/github-readme-stats)

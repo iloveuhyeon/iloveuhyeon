@@ -22,4 +22,3 @@ I'm YuHyeon Park
 
 <br>
 <br>
-To OPGG, Midas

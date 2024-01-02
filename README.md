@@ -23,5 +23,5 @@ I'm YuHyeon Park
 <br>
 <br>
     
-Welcome 2024!!
+ 독감 조심하세요...
     

@@ -23,5 +23,5 @@ I'm YuHyeon Park
 <br>
 <br>
     
-    내일부터 다시 프로젝트 시작
+    How to use Kakao Oauth??
     

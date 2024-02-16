@@ -22,6 +22,5 @@ I'm YuHyeon Park
 
 <br>
 <br>
-    
-    Impacthon D-2
+
     

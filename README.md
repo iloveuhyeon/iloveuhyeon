@@ -1,7 +1,7 @@
-플러터 개발자 박유현입니다.
-
-
 <p align="center">
+  
+  플러터 개발자 박유현입니다.
+
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/farms/iloveuhyeon"

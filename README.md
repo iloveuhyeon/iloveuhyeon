@@ -2,8 +2,6 @@
 
 <p align="center"> 박유현입니다 </p>
 
----
-
 <h1 align="center">🌱 STATE</h1>
 
 <p align="center">

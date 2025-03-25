@@ -5,7 +5,6 @@
   final String name = '박유현';
   final DateTime birthday = DateTime(2007, 02, 20);
   final String gender = 'Male';
-  final String introduction = '성장을 목표로 강한 집념을 가지고 프로젝트를 이끕니다.';
   final String school = 'Gwangju Software Meister High School';
   final Major major = Major(
     development: 'Multi Platform Developer',
@@ -17,6 +16,7 @@
   final String instagram = 'i_love_u_hyeon';
   final List<String> emails = ['pyh1111802@naver.com', 'pyh1111802@gmail.com'];
 }
+
 class Major {
   final String development;
   final String language;

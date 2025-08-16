@@ -8,9 +8,9 @@
   final String school = 'Gwangju Software Meister High School';
   final Major major = Major(
     development: 'Multi Platform Developer',
-    language: 'Dart',
-    framework: 'Flutter',
-    interests: ['Next.js', 'Swift', 'Kotlin', 'etc.'],
+    language: 'Dart, kotlin',
+    framework: 'Flutter', 'android'
+    interests: ['Next.js', 'Swift', 'etc.'],
   );
   final String github = 'iloveuhyeon';
   final String instagram = 'i_love_u_hyeon';

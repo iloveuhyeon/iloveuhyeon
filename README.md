@@ -8,8 +8,8 @@
   final String school = 'Gwangju Software Meister High School';
   final Major major = Major(
     development: 'Multi Platform Developer',
-    language: ['Dart, kotlin'],
-    framework: ['Flutter', 'android'],
+    language: ['Dart', 'kotlin'],
+    framework: ['Flutter', 'Android'],
     interests: ['Next.js', 'Swift', 'etc.'],
   );
   final String github = 'iloveuhyeon';
@@ -19,8 +19,8 @@
 
 class Major {
   final String development;
-  final String language;
-  final String framework;
+  final List<String> language;
+  final List<String> framework;
   final List<String> interests;
 
   Major({
